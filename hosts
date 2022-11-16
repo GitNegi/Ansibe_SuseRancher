@@ -4,7 +4,7 @@ srv02
 
 [suse_rancher]
 #34.100.157.88  ansible_ssh_user=vineetnegi012000
-13.250.49.159 ansible_ssh_user=ec2-user ansible_ssh_private_key_file=vineet-sp-pc-kp-key.pem
+13.250.49.159 ansible_ssh_user=ec2-user ansible_ssh_private_key_file=vineet_skpc.pem
 
 
 [rhel_hosts]
