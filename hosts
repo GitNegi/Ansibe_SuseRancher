@@ -3,7 +3,7 @@ srv01
 srv02
 
 [suse_rancher]
-54.169.238.181 ansible_ssh_user= ec2-user
+54.169.238.181 ansible_ssh_user=ec2-user ansible_ssh_password=vineet@123
 
 
 [rhel_hosts]
