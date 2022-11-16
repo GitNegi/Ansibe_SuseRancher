@@ -3,7 +3,7 @@ srv01
 srv02
 
 [suse_rancher]
-suse1 ansible_ssh_user=vineetnegi012000
+34.100.157.88  ansible_ssh_user=vineetnegi012000
 
 
 [rhel_hosts]
