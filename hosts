@@ -1,5 +1,5 @@
 [suse_rancher]
-34.170.168.16  ansible_ssh_user=vineetnegi01012000 ansible_ssh_private_key_file=gcp.pem
+34.170.168.16  ansible_ssh_user=vineetnegi01012000 
 
 
 
