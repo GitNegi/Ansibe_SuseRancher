@@ -1,5 +1,5 @@
 [suse_rancher]
-54.251.181.78 ansible_ssh_user=ec2-user ansible_ssh_pass=V@123./
+54.251.181.78 ansible_user=ec2-user ansible_password=V@123./
 
 
 
