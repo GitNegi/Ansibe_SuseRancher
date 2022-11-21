@@ -1,5 +1,5 @@
 [suse_rancher]
-34.170.168.16  ansible_ssh_user=vineetnegi01012000 ansible_ssh_pass=v@123V
+34.170.168.16  ansible_ssh_user=vineetnegi01012000 ansible_ssh_pass=v@123V  ansible_sudo_password=v@123V
 
 
 
