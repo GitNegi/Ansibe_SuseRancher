@@ -1,5 +1,5 @@
 [suse_rancher]
-1.1.1.1 ansible_ssh_user=vineetnegi012000 
+localhost
 
 
 
